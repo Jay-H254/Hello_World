@@ -1,3 +1,2 @@
 # Hello_World
-H254 begins with R
-Just another repository
+H254 begins with r
